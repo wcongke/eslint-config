@@ -1,5 +1,5 @@
 {
-  "name": "can.eslint-config",
+  "name": "eslint-config-can",
   "version": "0.0.1",
   "description": "eslint",
   "main": "index.js",

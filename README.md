@@ -1,4 +1,4 @@
-# can.eslint-config
+# eslint-config-can
 > eslint 配置 [github](https://github.com/wcongke/eslint-config)
 
 
@@ -8,5 +8,5 @@
 
 ### install
 ```shell
-npm i can.eslint-config -S
+npm i eslint-config-can -S
 ```
