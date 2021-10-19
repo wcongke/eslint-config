@@ -1,6 +1,12 @@
 # can.eslint-config
-> eslint 配置
+> eslint 配置 [github](https://github.com/wcongke/eslint-config)
 
-[x] eslint
 
-[x] prettier
+* eslint
+
+* prettier
+
+### install
+```shell
+npm i can.eslint-config -S
+```
